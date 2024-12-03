@@ -20,3 +20,11 @@ System.out.println("mayo"):
 System.out.println(bun):
 
 ```
+
+- [X] buy ingredients
+- [ ] turn on grill
+- [ ] cook burger
+- [ ] throw cheese on for a second
+- [ ] take burger inside
+- [ ] put burger together
+- [ ] eat burger
